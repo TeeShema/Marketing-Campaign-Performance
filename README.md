@@ -14,6 +14,13 @@ This project turns complex marketing data into clear business intelligence.
 - [WHY THE NEED TO ACT](#WHY-THE-NEED-TO-ACT)
 - [BUSINESS OBJECTIVES](#BUSINESS-OBJECTIVES)
 - [ANALYSIS & INSIGHTS](#ANALYSIS-&-INSIGHTS)
+- [ANALYSIS AND INSIGHTS](#ANALYSIS-AND-INSIGHTS)
+     - [Insight 1](#Insight-1)
+     - [Insight 2](#Insight-2)
+     - [Insight 3](#Insight-3)
+     - [Insight 4[(#Insight-4)
+     - [Insight 5](#Insight-5)
+     - [Insight 6](#Insight-6)
 - [RECOMMENDATIONS](#RECOMMENDATIONS)
 - [CONCLUSION](#conclusion)
 
@@ -36,6 +43,7 @@ This dashboard reveals where the money is effective and where it is wasted, allo
 
 # ANALYSIS & INSIGHTS
  
+ # Insight-1
  **96% See the Ads, only 0.44% Convert; The Hidden Drop-Off in the Marketing Funnel.**
 
  <img width="975" height="498" alt="image" src="https://github.com/user-attachments/assets/ad78b3a7-12b3-44cb-ae71-8c68f353b396" />
@@ -88,7 +96,7 @@ The focus should shift from reach to resonance, ensuring each impression has a h
 
 
 
-
+ # Insight-2
 **Instagram Dominates ROI While Microsoft Wins the Efficiency Game — A Tale of Two Leaders in Ad Performance.**
 <img width="975" height="418" alt="image" src="https://github.com/user-attachments/assets/9a163c14-17e3-403a-814f-b742585cc9d9" />
 
@@ -125,7 +133,7 @@ In summary,
 
 
 
-
+ # Insight-3
 **When Clicks Meet Value: Campaigns CPN-216 and CPN-106 Lead the Pack in Turning Engagement into Profitable Conversions.**
  <img width="1068" height="308" alt="image" src="https://github.com/user-attachments/assets/637ec53a-66ec-416d-889f-f26210e84c52" />
 
@@ -157,7 +165,7 @@ A strategic reallocation of budget, favoring proven high-return campaigns while 
 
 
 
-
+ # Insight-4
 **The West Leads the Charge and Business Owners Bring the Biggest Wins: How Regional and Audience Dynamics Drive Marketing Performance**
 <img width="1028" height="274" alt="image" src="https://github.com/user-attachments/assets/b0288b6d-34a3-4272-b22b-682b0a7f2562" />
 
@@ -204,7 +212,7 @@ A strategic reallocation of budget, favoring proven high-return campaigns while 
 
 
 
-
+ # Insight-5
 **Carousel Ads Capture Attention, Video Ads Close the Deal; Striking the Balance Between Engagement and Conversion**
 <img width="658" height="412" alt="image" src="https://github.com/user-attachments/assets/8e228b07-ced5-4dd5-aebf-e27e3ee0df3a" />
 
@@ -232,15 +240,22 @@ Combining Carousel’s interactive appeal with Video’s persuasive power can dr
 
 
 
-
+# Insight-6
 **Ad Efficiency Revealed: The Campaigns That Turn Budget into Business Growth**
 <img width="723" height="723" alt="image" src="https://github.com/user-attachments/assets/bfdd52ed-2aca-449b-81a3-f61c74e51b4a" />
 
 When visualizing campaign performance through the CPA vs ROI chart, a clear performance pattern emerges; not all campaigns deliver value in the same way.
-In the top-left quadrant, we find the true champions, campaigns that achieve high ROI at low cost per acquisition. Most of these come from Instagram and Microsoft Ads, striking the perfect balance between cost control and revenue generation. These campaigns convert efficiently and are ideal models for scaling.
-The top-right quadrant tells a different but equally valuable story: high ROI, high CPA campaigns. They generate strong returns but at a higher cost, often seen in YouTube campaigns where video engagement drives conversions but requires higher investment. A small optimization in audience targeting or bidding could unlock even higher profitability.
-In contrast, the bottom-left quadrant contains low ROI, low CPA campaigns, they are budget-friendly but does not drive meaningful returns. While they keep acquisition costs low, their weak ROI suggests limited conversion impact or creative fatigue.
-The bottom-right quadrant exposes inefficient campaigns; those spending more but earning less. Here, Twitter and YouTube campaigns tend to underperform, signaling the need for strategic review, creative refresh, or reallocation of budget to stronger performers.
+
+In the top-left quadrant, we find the true champions, campaigns that achieve high ROI at low cost per acquisition. 
+Most of these come from Instagram and Microsoft Ads, striking the perfect balance between cost control and revenue generation. 
+These campaigns convert efficiently and are ideal models for scaling.
+The top-right quadrant tells a different but equally valuable story: high ROI, high CPA campaigns. 
+They generate strong returns but at a higher cost, often seen in YouTube campaigns where video engagement drives conversions but requires higher investment. 
+A small optimization in audience targeting or bidding could unlock even higher profitability.
+In contrast, the bottom-left quadrant contains low ROI, low CPA campaigns, they are budget-friendly but does not drive meaningful returns. 
+While they keep acquisition costs low, their weak ROI suggests limited conversion impact or creative fatigue.
+The bottom-right quadrant exposes inefficient campaigns; those spending more but earning less. 
+Here, Twitter and YouTube campaigns tend to underperform, signaling the need for strategic review, creative refresh, or reallocation of budget to stronger performers.
 
 Overall, data reveals a clear direction:
 
@@ -261,14 +276,15 @@ Every dollar in your marketing budget tells a story, and in this case, the data 
 After analyzing performance across platforms, campaigns, audiences, and ad formats, a clear pattern emerges: some channels are not just performing, they are compounding returns. Others, while promising, are spreading your spend too thin.
 
 1. Invest Where Value Compounds: Instagram and Microsoft Ads are your power duo.
-Together, they delivered the strongest ROI and conversion rates, proving they are both profitable and efficient.
-Reallocating more budget here is not just logical — it’s strategic. Every extra dollar on these platforms has historically generated more return than it cost.
-YouTube and Twitter, while still solid, act as secondary performers. Their ROI shows potential, but the small dip in conversion rates suggests it is time to refine targeting and ad messaging before scaling further.
+- Together, they delivered the strongest ROI and conversion rates, proving they are both profitable and efficient.
+- Reallocating more budget here is not just logical — it is strategic.
+  Every extra dollar on these platforms has historically generated more return than it cost.
+- YouTube and Twitter, while still solid, act as secondary performers. Their ROI shows potential, but the small dip in conversion rates suggests it is time to   refine targeting and ad messaging before scaling further.
 2. Double Down on Proven Campaigns: Campaigns like CPN-216, CPN-106, and CPN-426 are not just performing, they are outperforming.
-With an ROI near 700%, they’re clear evidence of what happens when content, audience, and timing align perfectly.
-Redirecting funds from underperforming or high-CPA campaigns toward these top performers ensures that your marketing dollars chase proven outcomes, not uncertainty.
-3. Focus on High-Yield Audiences and Regions: Business Owners and Professional audiences bring the best blend of profitability and engagement. Geographically, the West region shines making it the most responsive and profitable zone.
-Channel more of your spend toward these high-value groups while reducing budget in low-response regions like the North.
+- With an ROI near 700%, they’re clear evidence of what happens when content, audience, and timing align perfectly.
+- Redirecting funds from underperforming or high-CPA campaigns toward these top performers ensures that your marketing dollars chase proven outcomes, not uncertainty.
+3. Focus on High-Yield Audiences and Regions: Business Owners and Professional audiences bring the best blend of profitability and engagement. Geographically, the - - West region shines making it the most responsive and profitable zone.
+- Channel more of your spend toward these high-value groups while reducing budget in low-response regions like the North.
 4. Back High-Converting Ad Formats
 Video ads achieved the highest conversion rate and Carousel ads, on the other hand, excel at engagement  but should serve as awareness tools, not conversion drivers.
 
