@@ -6,6 +6,8 @@ It tracks performance across multiple advertising platforms, identifies high-per
 This project turns complex marketing data into clear business intelligence.
 
 <img width="747" height="648" alt="image" src="https://github.com/user-attachments/assets/bc3cda07-7cf1-4224-b8ce-7162c52f59f8" />
+<img width="1499" height="1477" alt="D1 (1)" src="https://github.com/user-attachments/assets/74a4339a-20a9-4644-8476-f2ae2886f783" />
+
 
  
  **TABLE OF CONTENTS**
@@ -13,12 +15,11 @@ This project turns complex marketing data into clear business intelligence.
 - [BUSINESS PROBLEM](#BUSINESS-PROBLEM)
 - [WHY THE NEED TO ACT](#WHY-THE-NEED-TO-ACT)
 - [BUSINESS OBJECTIVES](#BUSINESS-OBJECTIVES)
-- [ANALYSIS & INSIGHTS](#ANALYSIS-&-INSIGHTS)
-- [ANALYSIS AND INSIGHTS](#ANALYSIS-AND-INSIGHTS)
+- ANALYSIS & INSIGHTS
      - [Insight 1](#Insight-1)
      - [Insight 2](#Insight-2)
      - [Insight 3](#Insight-3)
-     - [Insight 4[(#Insight-4)
+     - [Insight 4](#Insight-4)
      - [Insight 5](#Insight-5)
      - [Insight 6](#Insight-6)
 - [RECOMMENDATIONS](#RECOMMENDATIONS)
@@ -97,7 +98,7 @@ The focus should shift from reach to resonance, ensuring each impression has a h
 
 
  # Insight-2
-**Instagram Dominates ROI While Microsoft Wins the Efficiency Game — A Tale of Two Leaders in Ad Performance.**
+**Instagram Dominates ROI While Microsoft Wins the Efficiency Game; A Tale of Two Leaders in Ad Performance.**
 <img width="975" height="418" alt="image" src="https://github.com/user-attachments/assets/9a163c14-17e3-403a-814f-b742585cc9d9" />
 
 • Instagram and Microsoft emerge as the twin leaders for Ad Platform performance.
