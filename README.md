@@ -5,7 +5,6 @@ It tracks performance across multiple advertising platforms, identifies high-per
 
 This project turns complex marketing data into clear business intelligence.
 
-<img width="747" height="648" alt="image" src="https://github.com/user-attachments/assets/bc3cda07-7cf1-4224-b8ce-7162c52f59f8" />
 <img width="1499" height="1477" alt="D1 (1)" src="https://github.com/user-attachments/assets/74a4339a-20a9-4644-8476-f2ae2886f783" />
 
 
@@ -284,7 +283,9 @@ After analyzing performance across platforms, campaigns, audiences, and ad forma
 2. Double Down on Proven Campaigns: Campaigns like CPN-216, CPN-106, and CPN-426 are not just performing, they are outperforming.
 - With an ROI near 700%, they’re clear evidence of what happens when content, audience, and timing align perfectly.
 - Redirecting funds from underperforming or high-CPA campaigns toward these top performers ensures that your marketing dollars chase proven outcomes, not uncertainty.
-3. Focus on High-Yield Audiences and Regions: Business Owners and Professional audiences bring the best blend of profitability and engagement. Geographically, the - - West region shines making it the most responsive and profitable zone.
+3. Focus on High-Yield Audiences and Regions:
+- Business Owners and Professional audiences bring the best blend of profitability and engagement.
+- Geographically, the West region shines making it the most responsive and profitable zone.
 - Channel more of your spend toward these high-value groups while reducing budget in low-response regions like the North.
 4. Back High-Converting Ad Formats
 Video ads achieved the highest conversion rate and Carousel ads, on the other hand, excel at engagement  but should serve as awareness tools, not conversion drivers.
@@ -322,7 +323,7 @@ Key findings show that:
 
 •	The conversion funnel revealed a high drop-off rate post-impression (96%), signaling the need for stronger middle- and bottom-funnel optimization.
 
-Overall, the project demonstrates that reallocating spend toward high-performing platforms, audiences, and formats while addressing funnel inefficiencies, can raise total marketing ROI by 25–40% without additional spend.
+Overall, the project demonstrates that reallocating spend toward high-performing platforms, audiences, and formats while addressing funnel inefficiencies, can raise total marketing ROI by 25-40% without additional spend.
 
 
 
