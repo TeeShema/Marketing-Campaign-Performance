@@ -74,10 +74,12 @@ The focus should shift from reach to resonance, ensuring each impression has a h
 
 
 
+
+
 **Instagram Dominates ROI While Microsoft Wins the Efficiency Game — A Tale of Two Leaders in Ad Performance.**
 <img width="975" height="418" alt="image" src="https://github.com/user-attachments/assets/9a163c14-17e3-403a-814f-b742585cc9d9" />
 
-•Instagram and Microsoft emerge as the twin leaders for Ad Platform performance.
+• Instagram and Microsoft emerge as the twin leaders for Ad Platform performance.
 
 •	Instagram is your top revenue driver, giving the highest ROI.
 
@@ -98,13 +100,18 @@ In summary,
 
 
 
-**When Clicks Meet Value: Campaigns CPN-216 and CPN-106 Lead the Pack in Turning Engagement into Profitable Conversions.**
 
+
+
+**When Clicks Meet Value: Campaigns CPN-216 and CPN-106 Lead the Pack in Turning Engagement into Profitable Conversions.**
  <img width="1068" height="308" alt="image" src="https://github.com/user-attachments/assets/637ec53a-66ec-416d-889f-f26210e84c52" />
 
 Campaigns CPN-216, CPN-106, CPN-426, CPN-429, and CPN-199 stand out as the most profitable campaigns; they generated the most ROI, showing the best balance between cost, engagement, and conversion. ROI being consistently near 700% suggests these campaigns are turning every $1 spent into about $7 in return.
+
 On the other hand, campaigns like CPN-413 and CPN-167 lead in engagement, attracting clicks effectively, meaning the ad creatives and messaging are resonating with their target viewers.
+
 Meanwhile, campaigns such as CPN-464 and CPN-363 are cost-efficient; they deliver low-cost conversions, making them good for budget efficiency, though they may need optimization to increase ROI or engagement.
+
 Overall, the results suggest that combining the creative appeal of high-CTR campaigns with the targeting precision and efficiency of high-ROI campaigns can significantly improve performance across all stages of the funnel.
 
 **Recommendations**
@@ -119,13 +126,18 @@ A strategic reallocation of budget, favoring proven high-return campaigns while 
 
 
 
-**The West Leads the Charge and Business Owners Bring the Biggest Wins: How Regional and Audience Dynamics Drive Marketing Performance**
 
+
+
+**The West Leads the Charge and Business Owners Bring the Biggest Wins: How Regional and Audience Dynamics Drive Marketing Performance**
 <img width="1028" height="274" alt="image" src="https://github.com/user-attachments/assets/b0288b6d-34a3-4272-b22b-682b0a7f2562" />
 
 •	The West region stands out as the most responsive area, also with a strong ROI, showing that ads there not only attract attention but also convert into high returns.
+
 •	The East and South regions perform consistently, maintaining ROI above 420%, signaling balanced engagement and profitability.
+
 •	The North region trails slightly with lower and ROI, suggesting either weaker audience relevance or less effective ad delivery in that area.
+
 
 
 <img width="1008" height="302" alt="image" src="https://github.com/user-attachments/assets/acb27c0d-82d4-46ad-8646-35d30fda82cb" />
