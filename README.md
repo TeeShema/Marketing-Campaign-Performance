@@ -83,6 +83,12 @@ The focus should shift from reach to resonance, ensuring each impression has a h
 
 
 
+
+
+
+
+
+
 **Instagram Dominates ROI While Microsoft Wins the Efficiency Game — A Tale of Two Leaders in Ad Performance.**
 <img width="975" height="418" alt="image" src="https://github.com/user-attachments/assets/9a163c14-17e3-403a-814f-b742585cc9d9" />
 
@@ -108,6 +114,12 @@ In summary,
 1.	Maintain investment in Instagram and Microsoft Ads — they’re currently the most profitable mix of reach, conversion, and cost efficiency.
 2.	Test small-scale optimization campaigns on YouTube and Twitter to push conversion rates closer to 15.5%; even a 0.5% lift could translate into a significant ROI gain.
 3.	Cross-analyze creatives and audience segments between Instagram and Microsoft to uncover what drives their success and replicate those elements across other channels.
+
+
+
+
+
+
 
 
 
@@ -140,6 +152,12 @@ A strategic reallocation of budget, favoring proven high-return campaigns while 
 
 
 
+
+
+
+
+
+
 **The West Leads the Charge and Business Owners Bring the Biggest Wins: How Regional and Audience Dynamics Drive Marketing Performance**
 <img width="1028" height="274" alt="image" src="https://github.com/user-attachments/assets/b0288b6d-34a3-4272-b22b-682b0a7f2562" />
 
@@ -166,11 +184,21 @@ A strategic reallocation of budget, favoring proven high-return campaigns while 
 1.	Focus Budget on High-Performing Regions: Allocate a larger share of your ad spend to the West region. Scaling campaigns there can yield faster returns without additional testing costs.
 2.	Improve Targeting and Messaging in Underperforming Areas:  Reassess creative strategy and targeting for the North region. Test localized content, language, or offers that better reflect regional preferences and consumer motivations. Apply learnings from top performers (e.g., ad tone, visuals, timing) to lift engagement in weaker segments.
 3.	Segment Campaigns by Audience Strength
+
 •	Professionals(High engagement): leverage them for brand awareness and remarketing funnels.
+
 •	Millennials (Highest conversion rate): prioritize them in conversion-optimized campaigns and retargeting ads.
+
 •	Business Owners (Highest ROI): allocate more high-value offers, premium packages, or lead-nurture efforts here.
+
 •	Gen Z (Strong top-funnel interest): use engaging visuals and low-barrier offers to improve conversion intent.
 4.	Combine High-Value Audiences and Regions: Test cross-segmentation by targeting Millennials and Professionals in the West region, where both audience responsiveness and regional performance are strong. This overlap maximizes your campaign efficiency. High-engagement audiences in high-return regions often deliver exponential ROI.
+
+
+
+
+
+
 
 
 
@@ -199,6 +227,12 @@ Combining Carousel’s interactive appeal with Video’s persuasive power can dr
 
 
 
+
+
+
+
+
+
 **Ad Efficiency Revealed: The Campaigns That Turn Budget into Business Growth**
 <img width="723" height="723" alt="image" src="https://github.com/user-attachments/assets/bfdd52ed-2aca-449b-81a3-f61c74e51b4a" />
 
@@ -221,7 +255,9 @@ This quadrant insight shows that profitable growth isn’t about spending more, 
 
 # Recommendations
 **Turning Insights into Action: How to Reallocate Ad Spend for Maximum ROI**
+
 Every dollar in your marketing budget tells a story, and in this case, the data reveals exactly where that story should go next.
+
 After analyzing performance across platforms, campaigns, audiences, and ad formats, a clear pattern emerges: some channels are not just performing, they are compounding returns. Others, while promising, are spreading your spend too thin.
 
 1. Invest Where Value Compounds: Instagram and Microsoft Ads are your power duo.
@@ -269,7 +305,7 @@ Key findings show that:
 
 •	The conversion funnel revealed a high drop-off rate post-impression (96%), signaling the need for stronger middle- and bottom-funnel optimization.
 
-Overall, the project demonstrates that reallocating spend toward high-performing platforms, audiences, and formats — while addressing funnel inefficiencies — can raise total marketing ROI by 25–40% without additional spend.
+Overall, the project demonstrates that reallocating spend toward high-performing platforms, audiences, and formats while addressing funnel inefficiencies, can raise total marketing ROI by 25–40% without additional spend.
 
 
 
