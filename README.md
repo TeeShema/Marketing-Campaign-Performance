@@ -325,6 +325,8 @@ Key findings show that:
 
 Overall, the project demonstrates that reallocating spend toward high-performing platforms, audiences, and formats while addressing funnel inefficiencies, can raise total marketing ROI by 25-40% without additional spend.
 
+View Full Dashboard Here- https://public.tableau.com/app/profile/fakayode5175/viz/MarketingIntelligenceDashboard/D1
+
 
 
 
