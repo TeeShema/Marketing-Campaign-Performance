@@ -60,22 +60,29 @@ The focus should shift from reach to resonance, ensuring each impression has a h
       •	Test different audience layers: demographic, behavioral, and interest-based filters.
 5. Optimize Ad Relevance and Creative Testing
       •	Refresh underperforming ad creatives with stronger visuals, emotional triggers, or value-driven messaging.
+   
       •	A/B test ad formats (carousel vs. video vs. static) to see which generates higher CTR.
+   
       •	Highlight social proof (reviews, results, or statistics) to boost trust before conversion.
-6. Reinforce Conversion Flow Efficiency
+7. Reinforce Conversion Flow Efficiency
       •	Streamline checkout forms or lead generation steps (reduce fields and clicks).
+   
       •	Add exit-intent popups or retargeting ads to recover dropped users.
+   
       •	Use performance tracking (heatmaps, scroll depth, session replay) to identify drop-off points on landing pages.
 
 
 
-**Instagram Dominates ROI While Microsoft Wins the Efficiency Game — A Tale of Two Leaders in Ad Performance.**
 
+**Instagram Dominates ROI While Microsoft Wins the Efficiency Game — A Tale of Two Leaders in Ad Performance.**
 <img width="975" height="418" alt="image" src="https://github.com/user-attachments/assets/9a163c14-17e3-403a-814f-b742585cc9d9" />
 
 •Instagram and Microsoft emerge as the twin leaders for Ad Platform performance.
+
 •	Instagram is your top revenue driver, giving the highest ROI.
+
 •	Microsoft, on the other hand, achieves the same conversion rate as Instagram but with a lower acquisition cost, meaning it turns clicks into customers more efficiently.
+
 •	Twitter and YouTube sit just behind, profitable and reliable.
 
 In summary, 
