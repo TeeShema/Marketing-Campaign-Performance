@@ -48,17 +48,21 @@ The focus should shift from reach to resonance, ensuring each impression has a h
 **Recommendations**  
  1. Strengthen Middle-of-Funnel Engagement (Clicks → Conversions)
       •	Simplify landing pages and reduce friction in sign-up or checkout processes.
+    
       •	Ensure ad creatives align tightly with landing page offers (message and visual consistency).
+    
       •	Add clear, benefit-focused CTAs (e.g., “Get Started in 30 Seconds”) instead of generic buttons.
-2. Improve Targeting Precision
+3. Improve Targeting Precision
       •	Narrow audience targeting using lookalike or retargeting segments based on prior converters.
+   
       •	Use first-party or CRM data to target users more likely to purchase or engage deeply.
+   
       •	Test different audience layers: demographic, behavioral, and interest-based filters.
-3. Optimize Ad Relevance and Creative Testing
+5. Optimize Ad Relevance and Creative Testing
       •	Refresh underperforming ad creatives with stronger visuals, emotional triggers, or value-driven messaging.
       •	A/B test ad formats (carousel vs. video vs. static) to see which generates higher CTR.
       •	Highlight social proof (reviews, results, or statistics) to boost trust before conversion.
-4. Reinforce Conversion Flow Efficiency
+6. Reinforce Conversion Flow Efficiency
       •	Streamline checkout forms or lead generation steps (reduce fields and clicks).
       •	Add exit-intent popups or retargeting ads to recover dropped users.
       •	Use performance tracking (heatmaps, scroll depth, session replay) to identify drop-off points on landing pages.
